@@ -1,6 +1,13 @@
 # こちらのQiita記事の続きです。
 
+カスタマイズの続きになります。できあがりはこんな感じとなります。
+git clone して `hugo server -D` して動作確認してみてください。
+
+![トップページ](./_images/sc1.png)
 # ページ作成
+
+Hugo はすべてのページを Markdown で記述することができます。<br>
+まずは次のコマンドでページを作成してみましょう。ページは作成したら中身をいじってみよう。
 
 ```bash
 # 日本語ページの作成
@@ -19,7 +26,9 @@ hugo new en/posts/_index.md
 
 config.toml をいじる
 
-# ブログを投稿する
+https://github.com/takiguchi-yu/hugoExample/blob/master/config.toml
+
+# ブログを投稿してみる
 
 ```Bash
 # デフォルト言語を日本語にしているので、パスに"ja"の指定は不要
