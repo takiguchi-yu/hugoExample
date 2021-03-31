@@ -2,7 +2,7 @@ baseURL = "https://takiguchi-yu.github.io/hugoExample/public/"
 languageCode = "ja"
 title = "My New Hugo Site"
 theme = "ananke"
-resourceDir = "./resources"
+# resourceDir = "./resources"
 
 DefaultContentLanguage = "ja"
 SectionPagesMenu = "main"

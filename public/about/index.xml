@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>このブログについて on マイブログ</title>
-    <link>http://example.org/about/</link>
+    <link>https://takiguchi-yu.github.io/hugoExample/public/about/</link>
     <description>Recent content in このブログについて on マイブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 29 Mar 2021 00:25:17 +0900</lastBuildDate><atom:link href="http://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Mar 2021 00:25:17 +0900</lastBuildDate><atom:link href="https://takiguchi-yu.github.io/hugoExample/public/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,118 +2,118 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/tags/scene/</loc>
+    <loc>https://takiguchi-yu.github.io/hugoExample/public/tags/scene/</loc>
     <lastmod>2021-03-29T01:17:06+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://takiguchi-yu.github.io/hugoExample/public/tags/</loc>
     <lastmod>2021-03-29T01:17:06+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/"
+                href="https://takiguchi-yu.github.io/hugoExample/public/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://example.org/tags/"
+                href="https://takiguchi-yu.github.io/hugoExample/public/tags/"
                 />
   </url><url>
-    <loc>http://example.org/posts/chapter-4/</loc>
+    <loc>https://takiguchi-yu.github.io/hugoExample/public/posts/chapter-4/</loc>
     <lastmod>2021-03-29T01:17:06+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/posts/chapter-3/</loc>
+    <loc>https://takiguchi-yu.github.io/hugoExample/public/posts/chapter-3/</loc>
     <lastmod>2021-03-29T01:15:53+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/posts/chapter-2/</loc>
+    <loc>https://takiguchi-yu.github.io/hugoExample/public/posts/chapter-2/</loc>
     <lastmod>2021-03-29T01:13:54+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/posts/chapter-1/</loc>
+    <loc>https://takiguchi-yu.github.io/hugoExample/public/posts/chapter-1/</loc>
     <lastmod>2021-03-29T01:11:23+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://takiguchi-yu.github.io/hugoExample/public/posts/</loc>
     <lastmod>2021-03-29T01:04:59+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/posts/"
+                href="https://takiguchi-yu.github.io/hugoExample/public/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://example.org/posts/"
+                href="https://takiguchi-yu.github.io/hugoExample/public/posts/"
                 />
   </url><url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://takiguchi-yu.github.io/hugoExample/public/contact/</loc>
     <lastmod>2021-03-29T00:46:56+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/contact/"
+                href="https://takiguchi-yu.github.io/hugoExample/public/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://example.org/contact/"
+                href="https://takiguchi-yu.github.io/hugoExample/public/contact/"
                 />
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://takiguchi-yu.github.io/hugoExample/public/</loc>
     <lastmod>2021-03-29T00:36:12+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/"
+                href="https://takiguchi-yu.github.io/hugoExample/public/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://example.org/"
+                href="https://takiguchi-yu.github.io/hugoExample/public/"
                 />
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://takiguchi-yu.github.io/hugoExample/public/about/</loc>
     <lastmod>2021-03-29T00:25:17+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/about/"
+                href="https://takiguchi-yu.github.io/hugoExample/public/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://example.org/about/"
+                href="https://takiguchi-yu.github.io/hugoExample/public/about/"
                 />
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://takiguchi-yu.github.io/hugoExample/public/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/"
+                href="https://takiguchi-yu.github.io/hugoExample/public/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://example.org/categories/"
+                href="https://takiguchi-yu.github.io/hugoExample/public/categories/"
                 />
   </url>
 </urlset>
