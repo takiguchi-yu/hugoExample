@@ -4,7 +4,7 @@ description: "The Grand Hall"
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 tags: ["scene"]
 date: 2021-03-29T01:11:23+09:00
-draft: true
+draft: false
 ---
 348年、6か月、19日前
 今日、パリジャンはトリプルのすべての鐘の音に目覚めました

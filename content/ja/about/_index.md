@@ -3,7 +3,7 @@ title: "このブログについて"
 description: "数年前、ノートルダム大聖堂を訪れたとき、またはむしろ調べているときに、この本の著者は、塔の1つのあいまいな隅に、壁に手で刻まれた次の単語を見つけました。—ANANKE。"
 featured_image: ''
 date: 2021-03-29T00:25:17+09:00
-draft: true
+draft: false
 ---
 {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
