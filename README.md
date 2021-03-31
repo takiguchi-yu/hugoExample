@@ -3,6 +3,12 @@
 カスタマイズの続きになります。できあがりはこんな感じとなります。
 git clone して `hugo server -D` して動作確認してみてください。
 
+```bash
+git clone git@github.com:takiguchi-yu/hugoExample.git
+git submodule update -i
+hugo server -D
+```
+
 ![トップページ](./_images/sc1.png)
 # ページ作成
 
