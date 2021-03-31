@@ -5,6 +5,6 @@ featured_image: ''
 date: 2021-03-29T00:25:17+09:00
 draft: false
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="./images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
 _ノートルダムの鐘_（フランス語：_ノートルダムドパリ_）は、ヴィクトルユーゴーによるフランスのロマン派/ゴシック小説で、1831年に出版されました。元のフランスのタイトルは、物語の中心となっているノートルダム大聖堂を指しています。 英語の翻訳者フレデリック・ショベルは、1833年に小説をノートルダムの鐘と名付けました。当時、ゴシック小説はイギリスのロマンス小説よりも人気があったからです。 物語は、ルイ11世の治世中、中世後期のフランスのパリを舞台にしています。
