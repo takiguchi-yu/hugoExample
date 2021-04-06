@@ -43,3 +43,14 @@ hugo new posts/chapter-2.md
 hugo new posts/chapter-3.md
 hugo new posts/chapter-4.md
 ```
+
+# github pages にデプロイ
+
+git worktree は作業ツリーの中で同時に複数ブランチを利用するコマンド
+
+```bash
+git worktree add -B gh-pages public origin/gh-pages
+hugo -D
+cd public && git add --all && git commit -m "Publishing to gh-pages" && git push origin gh-pages
+git push origin gh-pages
+```

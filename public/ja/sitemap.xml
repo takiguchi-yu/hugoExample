@@ -2,118 +2,118 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://takiguchi-yu.github.io/hugoExample/public/tags/scene/</loc>
+    <loc>https://takiguchi-yu.github.io/hugoExample/tags/scene/</loc>
     <lastmod>2021-03-29T01:17:06+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://takiguchi-yu.github.io/hugoExample/public/tags/</loc>
+    <loc>https://takiguchi-yu.github.io/hugoExample/tags/</loc>
     <lastmod>2021-03-29T01:17:06+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://takiguchi-yu.github.io/hugoExample/public/en/tags/"
+                href="https://takiguchi-yu.github.io/hugoExample/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://takiguchi-yu.github.io/hugoExample/public/tags/"
+                href="https://takiguchi-yu.github.io/hugoExample/tags/"
                 />
   </url><url>
-    <loc>https://takiguchi-yu.github.io/hugoExample/public/posts/chapter-4/</loc>
+    <loc>https://takiguchi-yu.github.io/hugoExample/posts/chapter-4/</loc>
     <lastmod>2021-03-29T01:17:06+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://takiguchi-yu.github.io/hugoExample/public/posts/chapter-3/</loc>
+    <loc>https://takiguchi-yu.github.io/hugoExample/posts/chapter-3/</loc>
     <lastmod>2021-03-29T01:15:53+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://takiguchi-yu.github.io/hugoExample/public/posts/chapter-2/</loc>
+    <loc>https://takiguchi-yu.github.io/hugoExample/posts/chapter-2/</loc>
     <lastmod>2021-03-29T01:13:54+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://takiguchi-yu.github.io/hugoExample/public/posts/chapter-1/</loc>
+    <loc>https://takiguchi-yu.github.io/hugoExample/posts/chapter-1/</loc>
     <lastmod>2021-03-29T01:11:23+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://takiguchi-yu.github.io/hugoExample/public/posts/</loc>
+    <loc>https://takiguchi-yu.github.io/hugoExample/posts/</loc>
     <lastmod>2021-03-29T01:04:59+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://takiguchi-yu.github.io/hugoExample/public/en/posts/"
+                href="https://takiguchi-yu.github.io/hugoExample/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://takiguchi-yu.github.io/hugoExample/public/posts/"
+                href="https://takiguchi-yu.github.io/hugoExample/posts/"
                 />
   </url><url>
-    <loc>https://takiguchi-yu.github.io/hugoExample/public/contact/</loc>
+    <loc>https://takiguchi-yu.github.io/hugoExample/contact/</loc>
     <lastmod>2021-03-29T00:46:56+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://takiguchi-yu.github.io/hugoExample/public/en/contact/"
+                href="https://takiguchi-yu.github.io/hugoExample/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://takiguchi-yu.github.io/hugoExample/public/contact/"
+                href="https://takiguchi-yu.github.io/hugoExample/contact/"
                 />
   </url><url>
-    <loc>https://takiguchi-yu.github.io/hugoExample/public/</loc>
+    <loc>https://takiguchi-yu.github.io/hugoExample/</loc>
     <lastmod>2021-03-29T00:36:12+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://takiguchi-yu.github.io/hugoExample/public/en/"
+                href="https://takiguchi-yu.github.io/hugoExample/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://takiguchi-yu.github.io/hugoExample/public/"
+                href="https://takiguchi-yu.github.io/hugoExample/"
                 />
   </url><url>
-    <loc>https://takiguchi-yu.github.io/hugoExample/public/about/</loc>
+    <loc>https://takiguchi-yu.github.io/hugoExample/about/</loc>
     <lastmod>2021-03-29T00:25:17+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://takiguchi-yu.github.io/hugoExample/public/en/about/"
+                href="https://takiguchi-yu.github.io/hugoExample/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://takiguchi-yu.github.io/hugoExample/public/about/"
+                href="https://takiguchi-yu.github.io/hugoExample/about/"
                 />
   </url><url>
-    <loc>https://takiguchi-yu.github.io/hugoExample/public/categories/</loc>
+    <loc>https://takiguchi-yu.github.io/hugoExample/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://takiguchi-yu.github.io/hugoExample/public/en/categories/"
+                href="https://takiguchi-yu.github.io/hugoExample/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://takiguchi-yu.github.io/hugoExample/public/categories/"
+                href="https://takiguchi-yu.github.io/hugoExample/categories/"
                 />
   </url>
 </urlset>
