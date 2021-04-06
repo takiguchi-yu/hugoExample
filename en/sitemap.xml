@@ -2,92 +2,92 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://takiguchi-yu.github.io/hugoExample/public/en/posts/</loc>
+    <loc>https://takiguchi-yu.github.io/hugoExample/en/posts/</loc>
     <lastmod>2021-03-29T01:06:24+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://takiguchi-yu.github.io/hugoExample/public/posts/"
+                href="https://takiguchi-yu.github.io/hugoExample/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://takiguchi-yu.github.io/hugoExample/public/en/posts/"
+                href="https://takiguchi-yu.github.io/hugoExample/en/posts/"
                 />
   </url><url>
-    <loc>https://takiguchi-yu.github.io/hugoExample/public/en/about/</loc>
+    <loc>https://takiguchi-yu.github.io/hugoExample/en/about/</loc>
     <lastmod>2021-03-29T00:58:04+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://takiguchi-yu.github.io/hugoExample/public/about/"
+                href="https://takiguchi-yu.github.io/hugoExample/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://takiguchi-yu.github.io/hugoExample/public/en/about/"
+                href="https://takiguchi-yu.github.io/hugoExample/en/about/"
                 />
   </url><url>
-    <loc>https://takiguchi-yu.github.io/hugoExample/public/en/contact/</loc>
+    <loc>https://takiguchi-yu.github.io/hugoExample/en/contact/</loc>
     <lastmod>2021-03-29T00:58:04+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://takiguchi-yu.github.io/hugoExample/public/contact/"
+                href="https://takiguchi-yu.github.io/hugoExample/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://takiguchi-yu.github.io/hugoExample/public/en/contact/"
+                href="https://takiguchi-yu.github.io/hugoExample/en/contact/"
                 />
   </url><url>
-    <loc>https://takiguchi-yu.github.io/hugoExample/public/en/</loc>
+    <loc>https://takiguchi-yu.github.io/hugoExample/en/</loc>
     <lastmod>2021-03-29T00:57:51+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://takiguchi-yu.github.io/hugoExample/public/"
+                href="https://takiguchi-yu.github.io/hugoExample/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://takiguchi-yu.github.io/hugoExample/public/en/"
+                href="https://takiguchi-yu.github.io/hugoExample/en/"
                 />
   </url><url>
-    <loc>https://takiguchi-yu.github.io/hugoExample/public/en/categories/</loc>
+    <loc>https://takiguchi-yu.github.io/hugoExample/en/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://takiguchi-yu.github.io/hugoExample/public/categories/"
+                href="https://takiguchi-yu.github.io/hugoExample/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://takiguchi-yu.github.io/hugoExample/public/en/categories/"
+                href="https://takiguchi-yu.github.io/hugoExample/en/categories/"
                 />
   </url><url>
-    <loc>https://takiguchi-yu.github.io/hugoExample/public/en/tags/</loc>
+    <loc>https://takiguchi-yu.github.io/hugoExample/en/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://takiguchi-yu.github.io/hugoExample/public/tags/"
+                href="https://takiguchi-yu.github.io/hugoExample/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://takiguchi-yu.github.io/hugoExample/public/en/tags/"
+                href="https://takiguchi-yu.github.io/hugoExample/en/tags/"
                 />
   </url>
 </urlset>
