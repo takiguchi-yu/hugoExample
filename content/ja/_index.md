@@ -1,7 +1,7 @@
 ---
 title: "ようこそ！私のブログへ"
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "あなたが必要とする最後のテーマ。 多分。"
+description: "あなたが必要とする最後のテーマ。"
 date: 2021-03-29T00:36:12+09:00
 draft: false
 ---
